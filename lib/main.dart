@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:weather_app_ui/screens/weather_app.dart';
 
-
+// This is main File
 void main() {
   runApp(const MyApp());
 }
